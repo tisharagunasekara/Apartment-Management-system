@@ -1,0 +1,7 @@
+@import url("./hero.css");
+@import url("./header.css");
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    overflow-x: hidden;
+  }
